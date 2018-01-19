@@ -1,8 +1,8 @@
 {
 	"movie_id": "1",
 	"movie_name": "ကိုတင့်တို့စူပါရပ်ကွက်",
-    "movie_cover_image": "http://piti.com/blablabla.jpg",
-    "movie_poster_image": "http://piti.com/blablabla.jpg",
+    "poster": "https://www.google.com.mm/imgres?imgurl=http%3A%2F%2Fakns-images.eonline.com%2Feol_images%2FEntire_Site%2F2017126%2Frs_1024x759-170226171655-1024.Priyanka-Chopra-Best-beauty-Oscars-2017.jpg%3Ffit%3Dinside%7C900%3A700&imgrefurl=http%3A%2F%2Fwww.eonline.com%2Fnews%2F831854%2Fbest-beauty-looks-at-the-oscars-2017-priyanka-chopra-janelle-monae-more&docid=iRU0i9DzSYUl6M&tbnid=Ziuhlmrm0XR9LM%3A&vet=10ahUKEwj4jcuAwOPYAhWIro8KHe-zDUMQMwg7KAAwAA..i&w=900&h=667&bih=613&biw=1366&q=best%20beauty%20image&ved=0ahUKEwj4jcuAwOPYAhWIro8KHe-zDUMQMwg7KAAwAA&iact=mrc&uact=8",
+    "trailer": "https://www.google.com.mm/imgres?imgurl=http%3A%2F%2Fwww.abeautyclub.com%2Fwp-content%2Fuploads%2F2011%2F07%2Fthe-best-beauty-tips-.jpg&imgrefurl=http%3A%2F%2Fwww.abeautyclub.com%2Fthe-best-beauty-tips.html&docid=Ycd45VXwJudrNM&tbnid=Ru29VXsg5HFl6M%3A&vet=10ahUKEwj4jcuAwOPYAhWIro8KHe-zDUMQMwg9KAEwAQ..i&w=443&h=338&bih=613&biw=1366&q=best%20beauty%20image&ved=0ahUKEwj4jcuAwOPYAhWIro8KHe-zDUMQMwg9KAEwAQ&iact=mrc&uact=8",
     "date": "ဖေဖော်ဝါရီ 2018",
     "time": "92 မိနစ်",
     "director":"မီးပွား",
@@ -27,14 +27,16 @@
     "related_data": [
         {
         	"movie_id": "1",
-            "movie_name": "name",
-            "movie_profile_image": "http://piti.com/blablabla.jpg",
+            "movie_name": "ကြီးလေးကြီး",
+		"poster": "https://www.google.com.mm/imgres?imgurl=http%3A%2F%2Fapi.img.nlm.io%2FxMF8rn0E%2Fh460-w305-1512404113%2Fvogue%2Fmedia%2Farticles%2F4%2F5%2F1%2F0%2F45166-1_og.jpg&imgrefurl=http%3A%2F%2Fwww.vogue.com.au%2Fbeauty%2Fhowto%2Fthree%2Bcelebrities%2Bshare%2Btheir%2Bbest%2Bbeauty%2Bdiy%2Btips%2Band%2Btricks%2C45166&docid=D_Pe9AXJkntHtM&tbnid=T-pg6aFWKp-lyM%3A&vet=10ahUKEwj4jcuAwOPYAhWIro8KHe-zDUMQMwiJAShCMEI..i&w=305&h=381&bih=613&biw=1366&q=best%20beauty%20image&ved=0ahUKEwj4jcuAwOPYAhWIro8KHe-zDUMQMwiJAShCMEI&iact=mrc&uact=8",
+            "trailer": "https://www.google.com.mm/imgres?imgurl=https%3A%2F%2Flh3.googleusercontent.com%2FIn2jS8Hd2Yb30SOTt-VZgx-fVgbkDKXeuGXmqAVKlV0uAHjJ0RlV-FUSLgLjXuoe10c%3Dh900&imgrefurl=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dus.pinguo.selfie&docid=s45RAXyX1mpJcM&tbnid=ZjxC7XJjp7fwBM%3A&vet=10ahUKEwj4jcuAwOPYAhWIro8KHe-zDUMQMwhAKAQwBA..i&w=480&h=800&bih=613&biw=1366&q=best%20beauty%20image&ved=0ahUKEwj4jcuAwOPYAhWIro8KHe-zDUMQMwhAKAQwBA&iact=mrc&uact=8",
             "movie_price": "80"
         },
         {
-        	"movie_id": "1",
-            "movie_name": "Movie Name",
-            "movie_preview_image": "http://piti.com/blablabla.jpg", 
+        	"movie_id": "2",
+            "movie_name": "စရိုက်",
+		"poster": "https://www.google.com.mm/imgres?imgurl=https%3A%2F%2Fbeautyeditor.ca%2F.image%2Far_16%3A9%252Cc_fill%252Ccs_srgb%252Cg_faces%3Acenter%252Cq_80%252Cw_620%2FMTUyNDYzODIxNDczMDY0OTM4%2Fbest-beauty-looks-of-2017-2.jpg&imgrefurl=https%3A%2F%2Fbeautyeditor.ca%2F&docid=ni7v7ALS5eyX_M&tbnid=ggsCkHgecFGJ1M%3A&vet=10ahUKEwiZ8YCvwOPYAhUGro8KHco4Acs4ZBAzCAcoBTAF..i&w=620&h=349&itg=1&bih=613&biw=1366&q=best%20beauty%20image&ved=0ahUKEwiZ8YCvwOPYAhUGro8KHco4Acs4ZBAzCAcoBTAF&iact=mrc&uact=8",
+            "movie_preview_image": "https://www.google.com.mm/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F78%2F95%2F86%2F789586ced151eba2c37eb129b15ea8ce--eyebrow-makeup-tips-best-mac-makeup-products.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fhayleolson%2Fcollege-beauty-hair-makeup%2F&docid=w10TIRGm14kXUM&tbnid=1IJE-VNUqLBqnM%3A&vet=10ahUKEwj4jcuAwOPYAhWIro8KHe-zDUMQMwhzKCwwLA..i&w=500&h=500&bih=613&biw=1366&q=best%20beauty%20image&ved=0ahUKEwj4jcuAwOPYAhWIro8KHe-zDUMQMwhzKCwwLA&iact=mrc&uact=8", 
             "movie_price": "80"
         }
     ]
